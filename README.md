@@ -1,2 +1,2 @@
 # D46pythonassignments
-Python assignment submission repo
+Submitting Python assignments
